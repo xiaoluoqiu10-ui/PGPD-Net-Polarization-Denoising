@@ -1,0 +1,13 @@
+{
+  "device": "cuda",
+  "input_size_1024": "1024×1224",
+  "models": {
+    "NET4_PGPD_Net": {
+      "params_M": 2.577,
+      "trainable_params_M": 2.577,
+      "inference_time_1024_ms": 1620.33,
+      "inference_time_512_ms": 287.74
+    },
+    "NET1_Baseline": null
+  }
+}

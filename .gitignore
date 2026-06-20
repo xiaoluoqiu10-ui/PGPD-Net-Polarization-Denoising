@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+
+# Training outputs
+checkpoints/
+runs/
+logs/
+wandb/
+*.log
+
+# Large optional data archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# OS files
+Thumbs.db
+.DS_Store

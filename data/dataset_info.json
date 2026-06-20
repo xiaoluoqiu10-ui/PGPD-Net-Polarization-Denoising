@@ -1,0 +1,758 @@
+[
+  {
+    "scene": "1",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\1\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\1\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\1\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\1\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\1\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\1\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\1\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\1\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\1\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\1\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\1\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\1\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\1\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\1\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\1\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\1\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\1\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\1\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\1\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\1\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\1\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "10",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\10\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\10\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\10\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\10\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\10\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\10\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\10\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\10\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\10\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\10\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\10\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\10\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\10\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\10\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\10\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\10\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\10\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\10\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\10\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\10\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\10\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "11",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\11\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\11\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\11\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\11\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\11\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\11\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\11\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\11\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\11\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\11\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\11\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\11\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\11\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\11\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\11\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\11\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\11\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\11\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\11\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\11\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\11\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "12",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\12\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\12\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\12\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\12\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\12\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\12\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\12\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\12\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\12\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\12\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\12\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\12\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\12\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\12\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\12\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\12\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\12\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\12\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\12\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\12\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\12\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "13",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\13\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\13\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\13\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\13\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\13\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\13\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\13\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\13\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\13\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\13\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\13\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\13\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\13\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\13\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\13\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\13\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\13\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\13\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\13\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\13\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\13\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "14",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\14\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\14\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\14\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\14\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\14\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\14\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\14\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\14\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\14\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\14\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\14\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\14\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\14\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\14\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\14\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\14\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\14\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\14\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\14\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\14\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\14\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "15",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\15\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\15\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\15\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\15\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\15\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\15\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\15\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\15\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\15\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\15\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\15\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\15\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\15\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\15\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\15\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\15\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\15\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\15\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\15\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\15\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\15\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "16",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\16\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\16\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\16\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\16\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\16\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\16\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\16\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\16\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\16\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\16\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\16\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\16\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\16\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\16\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\16\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\16\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\16\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\16\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\16\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\16\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\16\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "17",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\17\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\17\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\17\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\17\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\17\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\17\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\17\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\17\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\17\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\17\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\17\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\17\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\17\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\17\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\17\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\17\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\17\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\17\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\17\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\17\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\17\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "18",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\18\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\18\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\18\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\18\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\18\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\18\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\18\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\18\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\18\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\18\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\18\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\18\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\18\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\18\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\18\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\18\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\18\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\18\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\18\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\18\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\18\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "19",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\19\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\19\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\19\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\19\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\19\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\19\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\19\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\19\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\19\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\19\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\19\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\19\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\19\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\19\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\19\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\19\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\19\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\19\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\19\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\19\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\19\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "2",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\2\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\2\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\2\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\2\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\2\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\2\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\2\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\2\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\2\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\2\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\2\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\2\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\2\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\2\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\2\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\2\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\2\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\2\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\2\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\2\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\2\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "20",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\20\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\20\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\20\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\20\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\20\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\20\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\20\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\20\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\20\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\20\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\20\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\20\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\20\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\20\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\20\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\20\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\20\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\20\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\20\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\20\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\20\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "21",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\21\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\21\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\21\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\21\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\21\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\21\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\21\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\21\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\21\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\21\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\21\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\21\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\21\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\21\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\21\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\21\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\21\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\21\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\21\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\21\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\21\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "3",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\3\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\3\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\3\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\3\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\3\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\3\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\3\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\3\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\3\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\3\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\3\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\3\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\3\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\3\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\3\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\3\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\3\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\3\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\3\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\3\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\3\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "4",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\4\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\4\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\4\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\4\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\4\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\4\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\4\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\4\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\4\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\4\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\4\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\4\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\4\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\4\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\4\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\4\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\4\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\4\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\4\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\4\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\4\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "5",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\5\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\5\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\5\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\5\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\5\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\5\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\5\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\5\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\5\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\5\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\5\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\5\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\5\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\5\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\5\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\5\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\5\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\5\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\5\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\5\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\5\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "6",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\6\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\6\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\6\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\6\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\6\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\6\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\6\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\6\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\6\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\6\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\6\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\6\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\6\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\6\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\6\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\6\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\6\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\6\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\6\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\6\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\6\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "7",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\7\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\7\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\7\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\7\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\7\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\7\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\7\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\7\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\7\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\7\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\7\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\7\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\7\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\7\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\7\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\7\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\7\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\7\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\7\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\7\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\7\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "8",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\8\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\8\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\8\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\8\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\8\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\8\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\8\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\8\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\8\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\8\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\8\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\8\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\8\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\8\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\8\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\8\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\8\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\8\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\8\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\8\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\8\\I135_noise_4000.bmp"
+      }
+    }
+  },
+  {
+    "scene": "9",
+    "gt_images": {
+      "I0": "G:\\zzz\\2\\new\\data2.1\\9\\I0_gt.bmp",
+      "I45": "G:\\zzz\\2\\new\\data2.1\\9\\I45_gt.bmp",
+      "I90": "G:\\zzz\\2\\new\\data2.1\\9\\I90_gt.bmp",
+      "I135": "G:\\zzz\\2\\new\\data2.1\\9\\I135_gt.bmp",
+      "dolp": "G:\\zzz\\2\\new\\data2.1\\9\\Iphotodolp_gt.bmp"
+    },
+    "noise_images": {
+      "500": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\9\\I0_noise_500.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\9\\I45_noise_500.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\9\\I90_noise_500.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\9\\I135_noise_500.bmp"
+      },
+      "1000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\9\\I0_noise_1000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\9\\I45_noise_1000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\9\\I90_noise_1000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\9\\I135_noise_1000.bmp"
+      },
+      "2000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\9\\I0_noise_2000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\9\\I45_noise_2000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\9\\I90_noise_2000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\9\\I135_noise_2000.bmp"
+      },
+      "4000": {
+        "I0": "G:\\zzz\\2\\new\\data2.1\\9\\I0_noise_4000.bmp",
+        "I45": "G:\\zzz\\2\\new\\data2.1\\9\\I45_noise_4000.bmp",
+        "I90": "G:\\zzz\\2\\new\\data2.1\\9\\I90_noise_4000.bmp",
+        "I135": "G:\\zzz\\2\\new\\data2.1\\9\\I135_noise_4000.bmp"
+      }
+    }
+  }
+]

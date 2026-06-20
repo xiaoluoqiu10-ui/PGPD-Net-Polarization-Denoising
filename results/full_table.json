@@ -1,0 +1,158 @@
+{
+  "NET1_baseline": {
+    "desc": "NET1: Baseline (no modules)",
+    "params_M": 2.1473,
+    "patch_time_ms": 10.68,
+    "I0_psnr": 44.13,
+    "I0_ssim": 0.989,
+    "I45_psnr": 45.16,
+    "I45_ssim": 0.9891,
+    "I90_psnr": 49.2,
+    "I90_ssim": 0.9892,
+    "I135_psnr": 45.22,
+    "I135_ssim": 0.9887,
+    "dolp_psnr": 28.3,
+    "dolp_ssim": 0.7861,
+    "aop_rmse_deg": 8.65,
+    "aop_mae_deg": 4.49,
+    "by_noise": {
+      "1000": {
+        "dolp_psnr": 28.17,
+        "dolp_ssim": 0.7844,
+        "aop_rmse": 8.64
+      },
+      "2000": {
+        "dolp_psnr": 28.74,
+        "dolp_ssim": 0.7967,
+        "aop_rmse": 8.52
+      },
+      "4000": {
+        "dolp_psnr": 28.97,
+        "dolp_ssim": 0.8029,
+        "aop_rmse": 8.48
+      },
+      "500": {
+        "dolp_psnr": 27.33,
+        "dolp_ssim": 0.7604,
+        "aop_rmse": 8.95
+      }
+    }
+  },
+  "NET2_dynconv_attn": {
+    "desc": "NET2: +DynamicConv +PolarAttention",
+    "params_M": 2.5673,
+    "patch_time_ms": 11.7,
+    "I0_psnr": 45.5,
+    "I0_ssim": 0.9895,
+    "I45_psnr": 47.11,
+    "I45_ssim": 0.9901,
+    "I90_psnr": 50.15,
+    "I90_ssim": 0.9904,
+    "I135_psnr": 47.0,
+    "I135_ssim": 0.99,
+    "dolp_psnr": 28.81,
+    "dolp_ssim": 0.7976,
+    "aop_rmse_deg": 8.62,
+    "aop_mae_deg": 4.28,
+    "by_noise": {
+      "1000": {
+        "dolp_psnr": 28.69,
+        "dolp_ssim": 0.7955,
+        "aop_rmse": 8.61
+      },
+      "2000": {
+        "dolp_psnr": 29.09,
+        "dolp_ssim": 0.8065,
+        "aop_rmse": 8.54
+      },
+      "4000": {
+        "dolp_psnr": 29.27,
+        "dolp_ssim": 0.8102,
+        "aop_rmse": 8.52
+      },
+      "500": {
+        "dolp_psnr": 28.19,
+        "dolp_ssim": 0.7782,
+        "aop_rmse": 8.81
+      }
+    }
+  },
+  "NET3_noise_est": {
+    "desc": "NET3: +NoiseEstimator",
+    "params_M": 1.9903,
+    "patch_time_ms": 10.44,
+    "I0_psnr": 45.16,
+    "I0_ssim": 0.9894,
+    "I45_psnr": 46.47,
+    "I45_ssim": 0.99,
+    "I90_psnr": 49.24,
+    "I90_ssim": 0.9901,
+    "I135_psnr": 46.25,
+    "I135_ssim": 0.9896,
+    "dolp_psnr": 28.01,
+    "dolp_ssim": 0.7981,
+    "aop_rmse_deg": 8.56,
+    "aop_mae_deg": 4.27,
+    "by_noise": {
+      "1000": {
+        "dolp_psnr": 27.77,
+        "dolp_ssim": 0.7942,
+        "aop_rmse": 8.56
+      },
+      "2000": {
+        "dolp_psnr": 28.51,
+        "dolp_ssim": 0.8095,
+        "aop_rmse": 8.49
+      },
+      "4000": {
+        "dolp_psnr": 28.49,
+        "dolp_ssim": 0.8149,
+        "aop_rmse": 8.46
+      },
+      "500": {
+        "dolp_psnr": 27.28,
+        "dolp_ssim": 0.7738,
+        "aop_rmse": 8.74
+      }
+    }
+  },
+  "NET4_PGPD_Net": {
+    "desc": "NET4: PGPD-Net (All modules)",
+    "params_M": 2.577,
+    "patch_time_ms": 13.24,
+    "I0_psnr": 43.38,
+    "I0_ssim": 0.9882,
+    "I45_psnr": 45.07,
+    "I45_ssim": 0.9891,
+    "I90_psnr": 48.47,
+    "I90_ssim": 0.9879,
+    "I135_psnr": 44.99,
+    "I135_ssim": 0.9888,
+    "dolp_psnr": 28.62,
+    "dolp_ssim": 0.7886,
+    "aop_rmse_deg": 8.92,
+    "aop_mae_deg": 5.08,
+    "by_noise": {
+      "1000": {
+        "dolp_psnr": 28.52,
+        "dolp_ssim": 0.7875,
+        "aop_rmse": 8.91
+      },
+      "2000": {
+        "dolp_psnr": 28.98,
+        "dolp_ssim": 0.7955,
+        "aop_rmse": 8.85
+      },
+      "4000": {
+        "dolp_psnr": 29.23,
+        "dolp_ssim": 0.8005,
+        "aop_rmse": 8.81
+      },
+      "500": {
+        "dolp_psnr": 27.75,
+        "dolp_ssim": 0.7709,
+        "aop_rmse": 9.1
+      }
+    }
+  }
+}

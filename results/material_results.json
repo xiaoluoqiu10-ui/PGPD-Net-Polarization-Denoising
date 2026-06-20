@@ -1,0 +1,53 @@
+{
+  "per_material": {
+    "Shiny Metal": {
+      "dolp_psnr": 29.67553347349167,
+      "dolp_ssim": 0.817781014740467,
+      "aop_rmse": 7.283195191621781,
+      "count": 40
+    },
+    "Dark Metal": {
+      "dolp_psnr": 27.764345010121662,
+      "dolp_ssim": 0.7788339306910833,
+      "aop_rmse": 9.342026472091675,
+      "count": 12
+    },
+    "Mixed Metal": {
+      "dolp_psnr": 28.260240256786346,
+      "dolp_ssim": 0.8029458448290825,
+      "aop_rmse": 8.38272762298584,
+      "count": 8
+    },
+    "Rubber": {
+      "dolp_psnr": 28.26452612876892,
+      "dolp_ssim": 0.7722146064043045,
+      "aop_rmse": 10.079469680786133,
+      "count": 4
+    },
+    "Plastic": {
+      "dolp_psnr": 27.580922544002533,
+      "dolp_ssim": 0.7477554902434349,
+      "aop_rmse": 12.194219470024109,
+      "count": 8
+    },
+    "Cardboard": {
+      "dolp_psnr": 30.792139172554016,
+      "dolp_ssim": 0.8061013221740723,
+      "aop_rmse": 7.888456344604492,
+      "count": 4
+    },
+    "Ceramic": {
+      "dolp_psnr": 26.65858745574951,
+      "dolp_ssim": 0.7215702533721924,
+      "aop_rmse": 12.340431690216064,
+      "count": 4
+    },
+    "PCB": {
+      "dolp_psnr": 27.566370964050293,
+      "dolp_ssim": 0.8339013904333115,
+      "aop_rmse": 8.711567640304565,
+      "count": 4
+    }
+  },
+  "coarse": {}
+}
