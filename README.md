@@ -58,7 +58,13 @@ scene_id/
   I135_noise_4000.bmp
 ```
 
-The included `data/dataset_info.json` records the dataset index. Because the full image dataset is relatively large, this repository currently includes one real sample scene for format verification. The full dataset can be added through GitHub Releases, Git LFS, or an external archival link before manuscript submission.
+The included `data/dataset_info.json` records the dataset index. This repository includes one real sample scene for format verification, and the full processed dataset is available from the GitHub Release:
+
+```text
+https://github.com/xiaoluoqiu10-ui/PGPD-Net-Polarization-Denoising/releases/tag/pgpd-net-full-dataset-v1
+```
+
+Download all `PGPD-Net-full-dataset-v1.zip.part*` files and `PGPD-Net-full-dataset-v1_SHA256SUMS.txt`, concatenate the parts in numerical order, verify the SHA256 checksum, and extract the reconstructed zip. The archive contains a relative-path `data/dataset_info.json` and the complete `data/full_dataset/` directory.
 
 ## Main Results
 
@@ -108,7 +114,7 @@ Some scripts were originally developed on a local Windows workstation. If a scri
 
 ## Data and Code Availability
 
-This repository is intended to accompany the PGPD-Net manuscript. The source code, representative data format, model checkpoint, and result summaries are provided for review and reproducibility. The full dataset release should be attached through a stable release asset or archival link when the paper is submitted.
+This repository is intended to accompany the PGPD-Net manuscript. The source code, representative data format, model checkpoint, result summaries, and full processed dataset release are provided for review and reproducibility.
 
 ## License
 
